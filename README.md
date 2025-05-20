@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on CSS (help me)
 - 📫 How to reach me Discord : @that.alex.fr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: They/Them
 
 <!---
 Alex-VOIP/Alex-VOIP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
